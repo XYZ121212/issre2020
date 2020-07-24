@@ -1,10 +1,13 @@
 ## issre2020 - Failures of RGB Cameras
 
  <p align="center">
- Banding
   <img height="200" src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/banding.gif">
+  <em>Banding</em>
 </p> 
+
 <br><br>
+
+
 ![Black](https://github.com/XYZ121212/issre2020/blob/master/READMEimages/black.gif)
 
 ![Blurred](https://github.com/XYZ121212/issre2020/blob/master/READMEimages/blurred.gif)
