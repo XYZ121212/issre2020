@@ -109,7 +109,7 @@ Success rates of injected failures:
 | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/dead200pixel.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/dead1000pixel.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-1vertical-line.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-3lines-2H1V.jpg" width="200"> |
 | DEAPIX200 | DEAPIX1000 | DEAPIX-vcl | DEAPIX-3l |
 | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-5lines-3H2V.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-10lines-5H5V.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-r.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-ro.jpg" width="200"> |
-| DEAPIX-5l | DEAPIX-10l | DEAPIXl-r | DEAPIX-ro |
+| DEAPIX-5l | DEAPIX-10l | DEAPIX-r | DEAPIX-ro |
 
 
 <br><br>
