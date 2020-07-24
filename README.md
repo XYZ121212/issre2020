@@ -48,14 +48,14 @@ The marked weather are those used in the work done.
 
 Success Rate of Golden Run:
 
-| \/\\\/\\\/\\\/\\\/\\ | FullTown02 | StraightTown02 | TurnTown02 |
+| \/\\\/\\\/\\\/\\\/\\ | Navigation | Straight | Turn |
 | ------------- | ------------- | ------------- | ------------- |
 | GoldenRun | 90 | 100 | 100  |
 
 
 Success rates of injected failures:
 
-| Failure name | FullTown02 | StraightTown02 | TurnTown02 |
+| Failure name | Navigation | Straight | Turn |
 | ------------- | ------------- | ------------- | ------------- |
 | NONOISE1 | 76  | 100  | 98  |
 | NONOISE2 | 16  | 90  | 40  |
