@@ -115,7 +115,7 @@ Success rates of injected failures:
 <br><br>
 ## Evolution of failure configurations:
 
-| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/banding.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/black.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/blurred.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/brighWhite.gif.jpg" width="200"> |
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/banding.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/black.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/blurred.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/brighWhite.gif" width="200"> |
 |:--:|:--:|:--:|:--:|
 | BAND | BLA | BLUR | BRIGH1 - BRIGH2 - WHI |
 | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/broken.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/chromaberr.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/condens.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel.gif" width="200"> |
