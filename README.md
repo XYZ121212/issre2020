@@ -115,12 +115,12 @@ Success rates of injected failures:
 <br><br>
 ## Evolution of failure configurations:
 
-| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/original.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/noiseredu.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/noiseredu1.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/blurredimage.jpg" width="200"> |
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/banding.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/black.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/blurred.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/brighWhite.gif.jpg" width="200"> |
 |:--:|:--:|:--:|:--:|
-| GoldenRun | NONOISE1 | NONOISE2 | BLUR |
-| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/white.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/brightness15.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/brightness25.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/black.jpg" width="200"> |
-| WHI | BRIGH1 | BRIGH2 | BLA |
-| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/broken1-fail.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/broken1-fail2.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/nobayerfilterimage.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/sharpnesscorr.jpg" width="200"> |
-| BRLE1 | BRLE2 | NBAYF | NOSHARP |
-| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/chromabefail.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/chromabefail2.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/icebrigfail.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/icebrigfail2.jpg" width="200"> |
-| NOCHROMAB-nb | NOCHROMAB-b | ICE1 | ICE2 |
+| BAND | BLA | BLUR | BRIGH1 - BRIGH2 - WHI |
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/broken.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/chromaberr.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/condens.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel.gif" width="200"> |
+| BRLE1 - BRLE2 | NOCHROMAB-nb - NOCHROMAB-b | COND | DEAPIX |
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/dirty.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/greyscale.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/ice.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/noise.gif" width="200"> |
+| DIRTY1 - DIRTY2 | NBAYF | ICE1 - ICE2 | NONOISE1 - NONOISE2 |
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/noodemos.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/rain.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/sharpness.gif" width="200"> | 
+| NODEMOS | RAIN | NOSHARP |
