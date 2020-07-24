@@ -2,6 +2,44 @@
 
 <br>
 
+### Failures Glossary:
+
+<br><br>
+
+NONOISE1	-> No Noise Reduction
+NONOISE2	-> No Noise Reduction
+BLUR	-> Blurred
+BRIGH1	-> Brightness (Configuration 1)
+BRIGH2	-> Brightness (Configuration 2)
+WHI	-> White
+BLA	-> Black
+BRLE1	-> Broken Lens (Configuration 1)
+BRLE2	-> Broken Lens (Configuration 2)
+NBAYF	-> No Bayer Filter
+NOSHARP	-> No Sharpness Correction
+NOCHROMAB-nb -> No Chromatic Aberration Correction (without blur)
+NOCHROMAB-b	-> No Chromatic Aberration Correction (with blur)
+ICE1	-> Ice (Configuration 1)
+ICE2	-> Ice (Configuration 2)
+DIRTY1	-> Dirty Internal - Dirty External (Configuration 1)
+DIRTY2	-> Dirty Internal - Dirty External (Configuration 2)
+RAIN	-> Rain
+COND	-> Condensation
+BAND	-> Banding
+NODEMOS	-> No Demosaicing
+DEAPIX1	-> Dead Pixel (one pixel)
+DEAPIX50	-> Dead Pixel (50 pixels)
+DEAPIX200	-> Dead Pixel (200 pixels)
+DEAPIX1000	-> Dead Pixel (1000 pixels)
+DEAPIX-vcl	->
+DEAPIX-3l	->
+DEAPIX-5l	->
+DEAPIX-10l	->
+DEAPIXl-r	->
+DEAPIX-ro ->
+
+<br><br>
+
 ### Various representations of the failures created:
 
 <br><br>
