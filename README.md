@@ -1,6 +1,10 @@
 # ISSRE2020 - Failures of RGB Cameras
 
+<br>
+
 ### Various representations of the failures created:
+
+<br><br>
 
  <p align="center">
   <img height="200" src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/banding.gif">
