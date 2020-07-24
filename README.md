@@ -2,7 +2,7 @@
 
  <p align="center">
   <img height="200" src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/banding.gif">
-  <em>Banding</em>
+  <br><em>Banding</em>
 </p> 
 
 <br><br>
