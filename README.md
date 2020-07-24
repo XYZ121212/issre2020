@@ -1,7 +1,7 @@
 ## issre2020 - Failures of RGB Cameras
 
 
-<div style="text-align:center">
+<center>
   
 ![Banding](https://github.com/XYZ121212/issre2020/blob/master/READMEimages/banding.gif)
 
@@ -33,4 +33,4 @@
 
 ![No Sharpness Correction](https://github.com/XYZ121212/issre2020/blob/master/READMEimages/sharpness.gif)
 
-</div>
+</center>
