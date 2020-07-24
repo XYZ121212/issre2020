@@ -7,6 +7,7 @@
 <br><br>
 
 NONOISE1	-> No Noise Reduction
+<br>
 NONOISE2	-> No Noise Reduction
 BLUR	-> Blurred
 BRIGH1	-> Brightness (Configuration 1)
