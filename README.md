@@ -86,7 +86,7 @@ Success rates of injected failures:
 | DEAPIX-3l | 68  | 100  | 92  |
 | DEAPIX-5l | 52  | 96  | 90  |
 | DEAPIX-10l | 70  | 94  | 98  |
-| DEAPIXl-r | 40  | 100  | 68  |
+| DEAPIX-r | 40  | 100  | 68  |
 | DEAPIX-ro | 36  | 100  | 70  |
 | Average Success Rate per Scenario (GoldenRun included) | 51.94 % | 88.56 % | 73.81 % |
 
