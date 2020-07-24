@@ -111,3 +111,16 @@ Success rates of injected failures:
 | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-5lines-3H2V.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-10lines-5H5V.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-r.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/deadpixel-ro.jpg" width="200"> |
 | DEAPIX-5l | DEAPIX-10l | DEAPIXl-r | DEAPIX-ro |
 
+
+<br><br>
+## Evolution of failure configurations:
+
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/original.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/noiseredu.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/noiseredu1.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/blurredimage.jpg" width="200"> |
+|:--:|:--:|:--:|:--:|
+| GoldenRun | NONOISE1 | NONOISE2 | BLUR |
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/white.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/brightness15.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/brightness25.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/black.jpg" width="200"> |
+| WHI | BRIGH1 | BRIGH2 | BLA |
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/broken1-fail.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/broken1-fail2.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/nobayerfilterimage.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/sharpnesscorr.jpg" width="200"> |
+| BRLE1 | BRLE2 | NBAYF | NOSHARP |
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/chromabefail.jpg" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/chromabefail2.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/icebrigfail.jpg" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/icebrigfail2.jpg" width="200"> |
+| NOCHROMAB-nb | NOCHROMAB-b | ICE1 | ICE2 |
