@@ -122,5 +122,5 @@ Success rates of injected failures:
 | BRLE1 - BRLE2 | NOCHROMAB-nb - NOCHROMAB-b | COND | DEAPIX |
 | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/dirty.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/greyscale.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/ice.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/noise.gif" width="200"> |
 | DIRTY1 - DIRTY2 | NBAYF | ICE1 - ICE2 | NONOISE1 - NONOISE2 |
-| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/noodemos.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/rain.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/sharpness.gif" width="200"> | 
-| NODEMOS | RAIN | NOSHARP |
+| <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/noodemos.gif" width="200"> | <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/rain.gif" width="200"> |  <img src="https://github.com/XYZ121212/issre2020/blob/master/READMEimages/sharpness.gif" width="200"> | |
+| NODEMOS | RAIN | NOSHARP | |
