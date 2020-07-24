@@ -9,35 +9,64 @@
 NONOISE1	-> No Noise Reduction
 <br>
 NONOISE2	-> No Noise Reduction
+<br>
 BLUR	-> Blurred
+<br>
 BRIGH1	-> Brightness (Configuration 1)
+<br>
 BRIGH2	-> Brightness (Configuration 2)
+<br>
 WHI	-> White
+<br>
 BLA	-> Black
+<br>
 BRLE1	-> Broken Lens (Configuration 1)
+<br>
 BRLE2	-> Broken Lens (Configuration 2)
+<br>
 NBAYF	-> No Bayer Filter
+<br>
 NOSHARP	-> No Sharpness Correction
+<br>
 NOCHROMAB-nb -> No Chromatic Aberration Correction (without blur)
+<br>
 NOCHROMAB-b	-> No Chromatic Aberration Correction (with blur)
+<br>
 ICE1	-> Ice (Configuration 1)
+<br>
 ICE2	-> Ice (Configuration 2)
+<br>
 DIRTY1	-> Dirty Internal - Dirty External (Configuration 1)
+<br>
 DIRTY2	-> Dirty Internal - Dirty External (Configuration 2)
+<br>
 RAIN	-> Rain
+<br>
 COND	-> Condensation
+<br>
 BAND	-> Banding
+<br>
 NODEMOS	-> No Demosaicing
+<br>
 DEAPIX1	-> Dead Pixel (one pixel)
+<br>
 DEAPIX50	-> Dead Pixel (50 pixels)
+<br>
 DEAPIX200	-> Dead Pixel (200 pixels)
+<br>
 DEAPIX1000	-> Dead Pixel (1000 pixels)
-DEAPIX-vcl	->
-DEAPIX-3l	->
-DEAPIX-5l	->
-DEAPIX-10l	->
-DEAPIXl-r	->
-DEAPIX-ro ->
+<br>
+DEAPIX-vcl	-> Dead Pixel (with one central vertical line)
+<br>
+DEAPIX-3l	-> Dead Pixel (2 horizontal and 1 vertical)
+<br>
+DEAPIX-5l	-> Dead Pixel (3 horizontal lines and 2 vertical)
+<br>
+DEAPIX-10l	-> Dead Pixel (5 horizontal lines and 5 vertical)
+<br>
+DEAPIXl-r	-> Dead Pixel (2 oblique lines)
+<br>
+DEAPIX-ro -> Dead Pixel (2 oblique lines and an obstacle in the center)
 
 <br><br>
 
